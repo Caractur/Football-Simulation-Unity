@@ -598,7 +598,7 @@ PlayerSettings:
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: FootballStimulation
+  metroApplicationDescription: FootballSimulation
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
